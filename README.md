@@ -7,7 +7,7 @@
 1. 下载代码
 
 ```
-git clone https://github.com/lsnan/redis_sync.git
+git clone https://github.com/wu1069805284/sync-redis.git
 ```
 
 2. 进入目录, 编译
